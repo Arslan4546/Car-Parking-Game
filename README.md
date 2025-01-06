@@ -22,7 +22,7 @@ Welcome to the **Car Parking Game**, a project developed in Unity using C#. This
 - **Time and Score Tracking**  
   A scoring system that rewards players for parking accurately within a set time limit.
 
-- **Customizable Vehicles** *(Optional)*  
+- **Customizable Vehicles** 
   Players can choose from a variety of vehicles, each with unique handling characteristics. *(Add this if implemented)*
 
 ## Installation
