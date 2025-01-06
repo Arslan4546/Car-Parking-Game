@@ -1,7 +1,5 @@
 # Unity Car Parking Game
 
-## Overview
-
 Welcome to the **Car Parking Game**, a project developed in Unity using C#. This game challenges players to navigate a vehicle through complex parking scenarios, testing their driving skills, precision, and patience. The project combines realistic vehicle physics, user-friendly controls, and engaging gameplay mechanics to deliver an immersive gaming experience.
 
 ## Features
